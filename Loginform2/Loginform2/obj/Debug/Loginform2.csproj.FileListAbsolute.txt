@@ -1,0 +1,15 @@
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.csproj.AssemblyReference.cache
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.csproj.SuggestedBindingRedirects.cache
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.Form1.resources
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.Properties.Resources.resources
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.csproj.GenerateResource.cache
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.csproj.CoreCompileInputs.cache
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\bin\Debug\Loginform2.exe.config
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\bin\Debug\Loginform2.exe
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\bin\Debug\Loginform2.pdb
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.exe
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.pdb
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.Form2.resources
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.Form3.resources
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.Form4.resources
+D:\My Documents\Desktop\claysys\Project\Loginform2\Loginform2\obj\Debug\Loginform2.Form5.resources
